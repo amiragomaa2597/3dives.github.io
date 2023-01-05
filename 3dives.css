@@ -1,0 +1,29 @@
+body
+{
+display: inline-block;
+                
+
+}
+.red{
+     display: inline-block;
+     background-color:crimson;
+     width :100px;
+     height:100px;
+ }
+ .blue{
+    display: inline-block;
+    background-color:blue;
+    width :100px;
+    height:100px;
+}
+.green{
+    display: inline-block;
+    background-color:aqua;
+    width :100px;
+    height:100px;
+}
+.blocked
+{
+    pointer-events: none
+}
+
